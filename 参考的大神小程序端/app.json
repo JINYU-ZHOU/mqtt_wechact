@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index"
+    ],
+    "window":{
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "esp8266小灯",
+      "navigationBarTextStyle": "black"
+    },
+  
+  "sitemapLocation": "sitemap.json"
+}

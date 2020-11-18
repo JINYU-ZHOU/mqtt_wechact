@@ -1,0 +1,4 @@
+<view class="button-sp-are">
+<button class="weui-btn" type="primary" size="mini"  bindtap="onClickOpen">开灯</button>
+<button type="warn" size="mini"  bindtap="onClickOff">关灯</button>
+</view>
